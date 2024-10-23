@@ -4,7 +4,9 @@
 
 /**** Escreva o código abaixo 👇******/
 
-
+function somar(a, b) {
+  return a + b;
+};
 
 /**** Escreva o código acima ☝️******/
 let resultado = somar(2, 10)
